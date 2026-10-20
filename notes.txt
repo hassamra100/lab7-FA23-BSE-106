@@ -1,2 +1,3 @@
 Notes for the lab
 Lab 7 covers init, add, commit, branch, merge, push and pull
+Change from clone
